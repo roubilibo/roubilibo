@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-<h2>Hi 👋, I'm Roubil Ridlo</h2>
-<h3>A Fullstack Developer, a cat lover and an introvert</h3>
+# Hi 👋, I'm Roubil Ridlo
+## A Fullstack Developer, a cat lover and an introvert
 🌱 I’m currently learning **Express, TypeScript, ReactJS**
 <br>
 ⚡ Fun fact **I love aquascaping**
