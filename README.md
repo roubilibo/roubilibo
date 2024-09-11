@@ -24,6 +24,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=roubilibo&icon=0&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=roubilibo&label=Profile%20Views&color=3&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
